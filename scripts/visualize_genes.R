@@ -25,4 +25,5 @@ visualize_gene_TSNE <- function(sce, gene_name){
   
 }
 
+
 visualize_gene_TSNE(sce, "TNFAIP2")
